@@ -1,0 +1,162 @@
+.nav-a{
+	color: #1c0050;
+	font-size: 22px;
+	text-decoration: none;
+	display: inline-block;
+}
+.nav-a-active{
+	color: #ff0d00;
+}
+
+.paragraph{
+	color: #000000;
+	font-size: 16px;
+	text-indent: 30px;
+}
+
+.center{
+ 	width: 250px;
+ 	height: 170px;
+ 	margin-left: 97px;
+}
+
+
+.contact-p{
+	color: #0040ff;
+	font-size: 20px;
+}
+
+.title-addition{
+	color: #15ff00;
+	font-size: 16px;
+}
+
+.title-addition2{
+	text-decoration: double;
+	color: #bafd00;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+/*start main menu*/
+
+.a{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 36px;
+	
+}
+nav{
+display: inline-block;
+vertical-align: middle;
+}
+
+li{
+display: inline-block;
+margin-right: 13px;
+font-size: 22px;
+margin-top: 36px;
+margin-left: 100px;
+}
+
+.div-banner{
+	width: 1170px;
+	height: 460px;
+	margin: 0 auto;
+	margin-top: 70px;
+	margin-left: 98px;
+	margin-bottom: 100px;
+  
+}
+.div-1{
+	border: 2px hidden rgb(0, 64, 255);
+	display: inline-block;
+	width: 300px;
+	height: 143px;
+	margin: 100px;
+}
+.container {
+	width: 1970px;
+	margin: 0 auto;
+}
+.finger{
+	display: inline-block;
+	margin: 5px 5px 50px 100px;
+	font-size: 16px;
+	color: rgb(72, 112, 72);
+}
+.left-block, .right-block {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 20px 30px 40px;
+}
+.right-block {
+	margin-left: 26px;
+}
+.div-h4{
+	margin-bottom: 20px;
+	color: rgb(0, 64, 255);
+}
+
+.div-p{
+	padding-left: 90px;
+}
+
+
+/*start news */
+
+img{
+display: inline-block;
+vertical-align: middle;
+}
+
+.div-2{
+	display: inline-block;
+	vertical-align: middle;
+	width: 929px;
+	height: 360px;
+}
+
+.article-p{
+	top: 110px;
+	left: 40px;
+	width: 50px;
+	height: 60px;
+	border: 1px solid #8bd13a;
+	background: #077907 0% 0% no-repeat padding-box;;
+	font-size: 50px;
+	margin-top: 10px;
+}
+
+
+/*start fonts*/
+
+.h3-fonts{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	letter-spacing: 1.5px;
+	font-size: xx-large;
+	font-weight: bolder;
+}
+
+.p-fonts{
+	font-family: "BPG Arial Caps", sans-serif;
+	font-style: italic;
+	color: darkred;
+}
+
+.index-h3{
+	font-family: 'Roboto', sans-serif;
+}
+
+.index-p{
+	font-family: 'Roboto', sans-serif;
+}
+.youtube{
+	margin-left: 50px;
+}
+.facebook{
+	margin-left: 30px;
+}
